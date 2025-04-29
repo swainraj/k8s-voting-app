@@ -32,8 +32,5 @@ This is a Voting Application, we used this app to vote and there is a Result das
 
 Automated Deployment of Scalable Applications on AWS EKS.
 
-
-
-### Keep Learning !
-### Keep Growing !
+### Keep Learning, Keep Growing !!
 
