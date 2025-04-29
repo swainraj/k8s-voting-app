@@ -1,6 +1,6 @@
 # K8s Kind Voting App
 
-This is a Voting Application, we used this app to vote and there is a Result dashboard where you can see the result.
+This project enables users to cast votes through a Python and Flask-based web interface. Voting data is then stored and managed within a Redis in-memory data structure. A .NET worker service processes these votes, and the final results are persisted in a PostgreSQL database ("db"). Users can then view the aggregated results through a separate interface.
 
 ## Architecture
 
