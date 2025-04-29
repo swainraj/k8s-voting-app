@@ -9,8 +9,11 @@ This is a Voting Application, we used this app to vote and there is a Result das
 
 ## output
 
-![Voting App Dashboard] [image](https://github.com/user-attachments/assets/d4c5e290-7975-49a9-84d7-742d362019eb)
-![Result Dashboard] [image](https://github.com/user-attachments/assets/7a83c595-0ba5-4095-964c-43834a33ec77)
+- <b>Voting App Dashboard</b>
+![image](https://github.com/user-attachments/assets/d4c5e290-7975-49a9-84d7-742d362019eb)
+
+- <b>Result Dashboard</b>
+![image](https://github.com/user-attachments/assets/7a83c595-0ba5-4095-964c-43834a33ec77)
 
 ## Observability
 
