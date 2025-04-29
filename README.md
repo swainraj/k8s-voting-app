@@ -10,6 +10,7 @@ This is a Voting Application, we used this app to vote and there is a Result das
 ## output
 
 ![Voting App Dashboard](K8s-voting-app-Dashboard.png)
+
 ![Result Dashboard](K8s-Result-Dashboard.png)
 
 ## Observability
