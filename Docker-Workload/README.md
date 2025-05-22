@@ -20,7 +20,7 @@ k8s-voting-app/
 ├── seed-data/
 ├── healthchecks/
 
----
+```
 
 ## 🧾 Prerequisites
 
