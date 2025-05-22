@@ -11,8 +11,8 @@ This guide explains how to deploy the **Docker-based Voting App** on an Ubuntu E
 
 k8s-voting-app/
 ├── Docker-Workload/
-│   ├── docker-compose.yml
-│   ├── docker-compose.images.yml
+│   ├── docker-compose.yml    # Defines local development using `build:` contexts
+│   ├── docker-compose.images.yml  # Uses prebuilt images from Docker Hub for quick setup
 ├── vote/
 ├── result/
 ├── worker/
