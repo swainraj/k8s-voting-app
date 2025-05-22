@@ -8,7 +8,8 @@ This guide explains how to deploy the **Docker-based Voting App** on an Ubuntu E
 ---
 
 ## 📁 Folder Structure
----
+
+```
 k8s-voting-app/
 ├── Docker-Workload/
 │   ├── docker-compose.yml           # Defines local development using build: contexts
